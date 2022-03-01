@@ -1,0 +1,17 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .card {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 2%;
+  }
+  .card h2{
+    margin-left: 3%;
+  }
+  .card p{
+    margin-left: 5%;
+  }
+  
+  
